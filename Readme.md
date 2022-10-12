@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Илья Лобков](https://up.htmlacademy.ru/javascript/27/user/2220887).
-* Наставник: [Дмитрий Корбут]
+* Наставник: [Дмитрий Корбут](https://htmlacademy.ru/profile/korbutds).
 
 ---
 
